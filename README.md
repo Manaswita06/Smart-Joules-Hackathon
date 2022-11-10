@@ -2,6 +2,8 @@
 
 Exploratory Data Analysis
 
+Link of dataset: [Click here](https://docs.google.com/spreadsheets/d/1ec4rYKlYbrZkMlA8ypdXSah7FmEk5Cu1ycTzjrkpQOc/edit#gid=48855503)
+
 
 Objective
 Assessing the value of energy efficiency improvements can be challenging as there's no way to truly know how much energy a building would have used without the improvements.
